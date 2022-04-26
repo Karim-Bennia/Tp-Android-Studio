@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">listView</string>
+    <string name="delete">deleteButton</string>
+    <string name="modifier">modifier</string>
+</resources>
